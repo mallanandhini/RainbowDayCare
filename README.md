@@ -1,2 +1,1 @@
-# RainbowDayCare
-Rainbow Day Care Centre
+http://rainbowdaycare.42web.io/
